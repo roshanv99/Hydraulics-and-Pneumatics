@@ -1,0 +1,3 @@
+When designing electropneumatics, for first part of the 
+sequence,make sure you get a condition that is TRUE for the 
+entire duration of the of the stroke. 
